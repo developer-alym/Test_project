@@ -1,0 +1,12 @@
+print('Assalamy aleykum')
+fjdskafds
+f
+dasfjdaskfjdaskfads
+fkdjsfjdsjfsad
+fkadsfjdskfjkdsjfas
+fsdkfjadksfjkdsjfdsaf
+jkadsjfjadskfjadsf
+adsfkjdjsfjdsa
+asfdskajfadsf
+dsfjkdsjfdskljfkds
+sadfjadskfjkasj
