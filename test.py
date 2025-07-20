@@ -10,3 +10,13 @@ adsfkjdjsfjdsa
 asfdskajfadsf
 dsfjkdsjfdskljfkds
 sadfjadskfjkasj
+
+print('Ya aleykum assalam')
+jfadsfkf
+asfkjdsajfkdsjfksda
+fdkjfsjakfjdskfdsa
+fkjdsfjkdsjfsda
+fkfjdsaklfj
+fkasjfdskf
+safkdsfjkdsjfjds
+fjdskfjkdsjfkdsjfkds
